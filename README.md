@@ -1,4 +1,4 @@
-# Some-experience-learning-bioinfomatic-on-ARM64-macOS
+# Some-experience-learning-bioinformatic-on-ARM64-macOS
 Hi, you can call me John or `WindWindLady`, the nickname. This `README` may have lots of grammatical or some weird writing errors, please point them out! I'll appreciate it because you're helping me improve my writing skill.
 
 I'm a graduate student majored in genetics. When deciding to learn this major, I heard that bioinformatic approaches will be needed in the rest of my career and Unix-like OSs such as `Linux` and `macOS` has advantages doing the analyses. So I'm using the newest MacBook Pro with M2 Pro chip. Obviously, the choice is not a good idea, for almost every software in bioinformatic is stilled compiled under `x86-64` architecture instead of `arm64`. And `macOS` does not have the kind of instant translating ability when softwares using x86-based library (not `Rosetta 2`, it won't work when compiling). So, I've spent lots of time learning how to run the software in need. 
