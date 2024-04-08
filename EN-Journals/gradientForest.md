@@ -2,7 +2,7 @@
 
 To be clear, the title doesn't mean this package is bad. It just took me a whole day to install it without any useful guidance. So I wanna talk about how to install the package.
 
-## What You Nees for Installation
+## What You Need for Installation
 
 I recommend to use R under Version 4.3, because I met a error report with version incompatible using R 4.3.1 .
 This package needs `gfortran` as the dependency. And `gfortran` has been included in `gcc`, so you can just install the `gcc` through Homebrew. But make sure you can remember the directory of `gcc`, which will be useful later.
