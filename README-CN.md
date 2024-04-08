@@ -15,13 +15,13 @@
 
 - M2 Pro，12核CPU+19核GPU
 - 32G统一内存
-- macOS 14.0 Sonoma
+- macOS 14.0 Sonoma （可能会随新系统释出而更新）
 
 # 在用的软件 （尽可能及时更新）
 
 - Homebrew（用来装一些软件）
 - VS code（有时候IDE）
-- R Studio with R 4.3.0
+- R Studio with R 4.3.0 **已经有一个包的安装过程了** [Install gradientForest](gradientForest.md)
 - CTL for Xcode
 - Parallels Desktop (有些macOS用不了的就开Windows虚拟机)
 - Anaconda (生信虚拟环境建立)
