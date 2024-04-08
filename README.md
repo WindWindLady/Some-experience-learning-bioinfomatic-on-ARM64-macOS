@@ -28,11 +28,11 @@ All above is the reason I want to open this project. I wanna share my experience
 - GenALEx (Excel Macro)
 
 ### Softwares below are running in Windows VM
-- Bayescan （GUI version which not supported multi-thread)
+- Bayescan （GUI version which not supported multi-thread) **This software now can stably run in my Mac, see this article which is in Chinese** [Install Bayescan](BAYESCAN--CN.md)
 - Structure 
 - Arlequin 
 - Dataformater 
-- PGDSpider 
+- PGDSpider **Same with Bayescan**
 - ArcMap 10.8
 
 I may not list all the softwares and their version using now because of the number, and please make sure you have installed the prerequisite environments or libraries when reading my journals.
