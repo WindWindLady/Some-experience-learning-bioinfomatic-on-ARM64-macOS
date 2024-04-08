@@ -31,7 +31,7 @@
 - GenALEx (Excel 宏)
 
 ### 以下运行在Windows虚拟机中
-- Bayescan （没有多线程优化的GUI版本) **Bayescan目前可以稳定运行于Mac本地机了，见[Bayescan安装](Installing Bayescan--CN.md)**
+- Bayescan （没有多线程优化的GUI版本) **Bayescan目前可以稳定运行于Mac本地机了** [Install Bayescan](Installing Bayescan--CN.md)
 - Structure 
 - Arlequin 
 - Dataformater 
