@@ -18,7 +18,7 @@ All above is the reason I want to open this project. I wanna share my experience
 
 - Homebrew (for installing)
 - VS Code (IDE sometimes)
-- R Studio with R 4.3.0
+- R Studio with R 4.3.0 **There is a doc for installing a package** [Install gradientForest](gradientForest.md)
 - CTL for Xcode
 - Parallels Desktop (for using some GIS software or software incompatible with macOS)
 - Anaconda (for bioinformatic virtual environments)
