@@ -31,11 +31,11 @@
 - GenALEx (Excel 宏)
 
 ### 以下运行在Windows虚拟机中
-- Bayescan （没有多线程优化的GUI版本)
+- Bayescan （没有多线程优化的GUI版本) **Bayescan目前可以稳定运行于Mac本地机了，见[Bayescan安装](Installing Bayescan--CN.md)**
 - Structure 
 - Arlequin 
 - Dataformater 
-- PGDSpider 
+- PGDSpider **同Bayescan**
 - ArcMap 10.8
 
 限于篇幅，上述软件并没有列出所用版本号，不过尽可能选择最新版**应该**没什么问题。请务必安装好所有前置环境！
