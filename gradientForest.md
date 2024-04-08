@@ -9,10 +9,9 @@ This package needs `gfortran` as the dependency. And `gfortran` has been include
 
 ## Start Installation
 
-Now you launch your Rstudio, and type <install.package('gradientForest')>, and it tells you that there's a dependency package called `extendedForest`. A `Yes` is required to proceed the installation program. Then Rstudio starts to download the source code from the Internet and automatically compiles it. But wait! There is an ERROR! It says 
+Now you launch your Rstudio, and type `install.package('gradientForest')`, and it tells you that there's a dependency package called `extendedForest`. A `Yes` is required to proceed the installation program. Then Rstudio starts to download the source code from the Internet and automatically compiles it. But wait! There is an ERROR! It says 
 
 >/opt/R/whatever-the-path-is/gfortran : No such file or directory
-
 So, what happened?
 
 Actually you may need to do some configuration about your R `makeconf` file to point the directory to your `gfortran`. You can use `Command+Shift+G` to entry the hidden directory, which usually is `/Library/Frameworks/R.framework/Versions/your version/Resources/etc`, and you will see the `makeconf` file. This file can open with notebook easily.
